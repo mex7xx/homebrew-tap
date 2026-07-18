@@ -1,0 +1,40 @@
+{
+  "token": "reflect-open",
+  "full_token": "reflect-open",
+  "old_tokens": [],
+  "tap": "mex7xx/reflect",
+  "name": ["Reflect"],
+  "desc": "Local-first Markdown note-taking app",
+  "homepage": "https://github.com/team-reflect/reflect-open",
+  "url": "https://github.com/team-reflect/reflect-open/releases/download/v0.6.0/Reflect_aarch64.dmg",
+  "url_specs": {},
+  "version": "0.6.0",
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "installed": null,
+  "installed_time": null,
+  "bundle_version": null,
+  "bundle_short_version": null,
+  "pinned": false,
+  "pinned_version": null,
+  "outdated": false,
+  "sha256": "9f226ae33862628ee9053e124868d8e20a77317a9ad2387c85df3d45873d9abe",
+  "artifacts": [
+    {
+      "app": ["Reflect.app"],
+      "target": "/Applications/Reflect.app"
+    }
+  ],
+  "caveats": null,
+  "depends_on": {},
+  "conflicts_with": [],
+  "container": null,
+  "auto_updates": null,
+  "tap_git_head": null,
+  "languages": [],
+  "ruby_source_path": "Casks/reflect-open.rb",
+  "ruby_source_checksum": {
+    "sha256": "no-check"
+  }
+}
