@@ -2,7 +2,7 @@
   "token": "reflect-open",
   "full_token": "reflect-open",
   "old_tokens": [],
-  "tap": "mex7xx/reflect",
+  "tap": "mex7xx/tap",
   "name": ["Reflect"],
   "desc": "Local-first Markdown note-taking app",
   "homepage": "https://github.com/team-reflect/reflect-open",
