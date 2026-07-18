@@ -1,4 +1,4 @@
-cask "reflect" do
+cask "reflect-open" do
   arch arm: "aarch64", intel: "x86_64"
 
   version "0.6.0"
