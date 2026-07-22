@@ -1,0 +1,40 @@
+{
+  "token": "interpreter",
+  "full_token": "interpreter",
+  "old_tokens": [],
+  "tap": "mex7xx/tap",
+  "name": ["Open Interpreter Desktop"],
+  "desc": "Desktop agent for working across documents, spreadsheets, and local files",
+  "homepage": "https://www.openinterpreter.com/desktop",
+  "url": "https://auth.openinterpreter.com/storage/v1/object/public/workstationupdater/releases/Interpreter-arm64.dmg",
+  "url_specs": {},
+  "version": "0.2.183",
+  "autobump": false,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "installed": null,
+  "installed_time": null,
+  "bundle_version": null,
+  "bundle_short_version": null,
+  "pinned": false,
+  "pinned_version": null,
+  "outdated": false,
+  "sha256": "32a34b8363992df2bf64d1c9fc6f8f662634d27ee7290da649f363ab3f6b07ae",
+  "artifacts": [
+    {
+      "app": ["Interpreter.app"],
+      "target": "/Applications/Interpreter.app"
+    }
+  ],
+  "caveats": null,
+  "depends_on": {},
+  "conflicts_with": [],
+  "container": null,
+  "auto_updates": null,
+  "tap_git_head": null,
+  "languages": [],
+  "ruby_source_path": "Casks/interpreter.rb",
+  "ruby_source_checksum": {
+    "sha256": "no-check"
+  }
+}
