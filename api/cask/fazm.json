@@ -1,0 +1,40 @@
+{
+  "token": "fazm",
+  "full_token": "fazm",
+  "old_tokens": [],
+  "tap": "mex7xx/tap",
+  "name": ["Fazm"],
+  "desc": "Claude Code and Codex GUI for macOS with persistent sessions",
+  "homepage": "https://fazm.ai",
+  "url": "https://github.com/mediar-ai/fazm/releases/download/v2.9.77%2B2009077-macos/Fazm.dmg",
+  "url_specs": {},
+  "version": "2.9.77",
+  "autobump": false,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "installed": null,
+  "installed_time": null,
+  "bundle_version": null,
+  "bundle_short_version": null,
+  "pinned": false,
+  "pinned_version": null,
+  "outdated": false,
+  "sha256": "ffe42b4facb26722b5f7d826740801a502c220e976d3bcc981912976e1c57819",
+  "artifacts": [
+    {
+      "app": ["Fazm.app"],
+      "target": "/Applications/Fazm.app"
+    }
+  ],
+  "caveats": null,
+  "depends_on": {},
+  "conflicts_with": [],
+  "container": null,
+  "auto_updates": true,
+  "tap_git_head": null,
+  "languages": [],
+  "ruby_source_path": "Casks/fazm.rb",
+  "ruby_source_checksum": {
+    "sha256": "no-check"
+  }
+}
