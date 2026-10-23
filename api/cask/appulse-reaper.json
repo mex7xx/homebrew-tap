@@ -1,0 +1,42 @@
+{
+  "token": "appulse-reaper",
+  "full_token": "appulse-reaper",
+  "old_tokens": [],
+  "tap": "mex7xx/tap",
+  "name": ["Reaper"],
+  "desc": "Menu bar monitor for AI agent processes (CPU and memory)",
+  "homepage": "https://github.com/AppulseSoftware/reaper",
+  "url": "https://github.com/AppulseSoftware/reaper/releases/download/v0.2.0/Reaper-0.2.0.zip",
+  "url_specs": {},
+  "version": "0.2.0",
+  "autobump": true,
+  "no_autobump_message": null,
+  "skip_livecheck": false,
+  "installed": null,
+  "installed_time": null,
+  "bundle_version": null,
+  "bundle_short_version": null,
+  "pinned": false,
+  "pinned_version": null,
+  "outdated": false,
+  "sha256": "f8e79f37af26253a6bebdd108f3bbe44f35a13e4164022fac7843bc698931640",
+  "artifacts": [
+    {
+      "app": ["Reaper.app"],
+      "target": "/Applications/Reaper.app"
+    }
+  ],
+  "caveats": null,
+  "depends_on": {
+    "macos": [">= sonoma"]
+  },
+  "conflicts_with": [],
+  "container": null,
+  "auto_updates": null,
+  "tap_git_head": null,
+  "languages": [],
+  "ruby_source_path": "Casks/appulse-reaper.rb",
+  "ruby_source_checksum": {
+    "sha256": "no-check"
+  }
+}
